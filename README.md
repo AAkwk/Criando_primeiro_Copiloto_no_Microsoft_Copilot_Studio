@@ -12,7 +12,7 @@ O Microsoft Copilot Studio é uma ferramenta de low-code da Microsoft para criar
 
 
 ## Objetivo
-Criar o primeiro Copiloto no Microsoft Copilot Studio.
+Criar o primeiro Copilot no Microsoft Copilot Studio.
 
 ## Resumo
 1. ✅ **Conectar/Criar conta no Microsoft 365**  
